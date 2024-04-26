@@ -25,3 +25,8 @@ This function changed the data from hourly frequency to daily frequency.
 Training the LSTM model was done using the training set and the validation dataset for testing the results through the training process. 
 The learning algorithm worked through the entire training dataset 60 times (Epoch), and the model weights were updated after each batch where the batch size is 20.
 
+## Contributors
+
+- [fizaayesha](https://github.com/fizaayesha)
+- [heeba-khan](https://github.com/heeba-khan)
+- [Khubanzehra](https://github.com/Khubanzehra/)
